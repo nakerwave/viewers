@@ -3,7 +3,7 @@ A standalone library to easily add naker scene anywhere online
 
 ## Getting Started
 
-import the Javascript viewer in the header of your website (current last version v1.0.0) :
+Import the Javascript viewer in the header of your website (current last version v1.0.0) :
 
 ```html
 <script src="https://harbor.naker.io/v1.0.0/viewer.js"></script>
@@ -13,8 +13,7 @@ This line will import the naker global variable to your website.
 
 ## Usage
 
-You then need to choose the html element which will be use to build the naker scene
-Just select this node by its id like this :
+You then need to choose the html element which will be use to build the naker scene. Just select this node by its id like this :
 ```javascript
 var container = document.getElementById('container');
 ```
