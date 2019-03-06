@@ -35,7 +35,7 @@ You can find your `project id` from the url when you edit it.
 You can also add some options to the render function. Here is the list of the available once :
 
 | Name           | Type         | Default      | Description                                                          |
-| :------------- | :----------: | :----------: |                                                                      |
+| :------------- | :----------: | :----------: | -------------------------------------------------------------------- |
 | loadervisible  | _boolean_    | `true`       | Choose if the loader is visible                                      |
 | fogstart       | _boolean_    | `true`       | When scene finish loading, you can have fog animation which fade out |
 | scrollarrow    | _boolean_    | `true`       | Draw an arrow at the bottom of the screen to push user to scroll     |
