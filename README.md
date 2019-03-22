@@ -64,3 +64,9 @@ naker.render({
   // Scene loaded, do what you need dude
 });
 ```
+
+## Examples
+
+To see it in action, follow these links:  
+[Viewer in the body](https://codepen.io/pichou/pen/jJXpxd)  
+[Viewer in a div](https://codepen.io/pichou/pen/YgdRKq)
