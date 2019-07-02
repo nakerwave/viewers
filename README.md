@@ -5,10 +5,10 @@
 
 ## Getting Started
 
-Import the Javascript Intale Viewer in the header of your website (current last version v1.0.1) :
+Import the Javascript Intale Viewer in the header of your website (current last version v1.0.2) :
 
 ```html
-<script src="https://harbor.naker.io/intale/v1.0.1/viewer.js"></script>
+<script src="https://harbor.naker.io/intale/v1.0.2/viewer.js"></script>
 ```
 
 This line will import the `nakerintale` global variable to your website.
